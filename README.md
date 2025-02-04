@@ -5,5 +5,5 @@ This is not the same as my miniproject step-wise application, as the datasets us
 
 ## List of assignments:
 1. Data preprocessing
-2. EDA
-3. KNN
+2. kNN
+3. Decision Trees
