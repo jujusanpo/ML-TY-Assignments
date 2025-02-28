@@ -7,3 +7,10 @@ This is not the same as my miniproject step-wise application, as the datasets us
 1. Data preprocessing
 2. kNN
 3. Decision Trees
+
+## Student Details:
+Name: Juee Shinde
+TY BTech CSE
+Panel: D
+Roll no: 49
+PRN: 1032222572
